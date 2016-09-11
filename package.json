@@ -14,8 +14,8 @@
         "cli-color": "*",
         "dateformat": "*",
         "base58-native": "*",
-        "multi-hashing": "git://github.com/clintar/node-multi-hashing.git#Nan-2.0",
-        "cryptonote-util": "git://github.com/clintar/node-cryptonote-util.git#Nan-2.0"
+        "multi-hashing": "git://github.com/suhz/node-multi-hashing.git#aeon",
+        "cryptonote-util": "git://github.com/suhz/node-cryptonote-util.git#aeon"
     },
     "engines": {
         "node": ">=0.10"
