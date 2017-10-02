@@ -26,22 +26,32 @@
             {
                 "port": 3333,
                 "difficulty": 1000,
-                "desc": "Low end hardware"
+                "desc": "Low end hardware",
+                "tls": false
             },
             {
                 "port": 5555,
                 "difficulty": 2000,
-                "desc": "Mid range hardware"
+                "desc": "Mid range hardware",
+                "tls": false
             },
             {
                 "port": 7777,
                 "difficulty": 10000,
-                "desc": "High end hardware"
+                "desc": "High end hardware",
+                "tls": false
+            },
+            {
+                "port": 443,
+                "difficulty": 20000,
+                "desc": "Claymore SSL / TLS Port",
+                "tls": true
             },
             {
                 "port": 8888,
                 "difficulty": 10000,
                 "desc": "Hidden port",
+                "tls": false,
                 "hidden": true
             }
         ],
