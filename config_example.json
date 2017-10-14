@@ -17,6 +17,7 @@
     },
 
     "poolServer": {
+        "pool_ip": "0.0.0.0",
         "enabled": true,
         "clusterForks": "auto",
         "poolAddress": "4A2Gv6uMc3vZsGMTEMnBsgaJMtQeEBCzaigneqJN8bzkTit2Di5MVm2fjE9rfWMz4yMVxSBL3Q9QzbafXUBXzUcANNnjjEn",
